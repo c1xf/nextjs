@@ -2,6 +2,7 @@
     "recommendations": [
         "akamud.vscode-theme-onedark",
         "alduncanson.react-hooks-snippets",
+        "bradlc.vscode-tailwindcss",
         "alefragnani.bookmarks",
         "crystal-spider.jsdoc-generator",
         "davidanson.vscode-markdownlint",
